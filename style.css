@@ -19,5 +19,21 @@ body{
 }
 
 .header-mobile{
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.header-mobile button{
+    border: none;
+    background: none;
+}
+
+.primeira-secao{
+    margin-bottom: 4rem;
+}
+
+.primeira-secao img{
+    width: 100%;
 }
